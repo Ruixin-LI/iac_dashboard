@@ -1,0 +1,19 @@
+{
+  "solutions": [
+    {
+      "id": "1",
+      "name": "Solution 1",
+      "description": "Description for Solution 1"
+    },
+    {
+      "id": "2",
+      "name": "Solution 2",
+      "description": "Description for Solution 2"
+    },
+    {
+      "id": "3",
+      "name": "Solution 3",
+      "description": "Description for Solution 3"
+    }
+  ]
+}
